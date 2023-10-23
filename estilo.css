@@ -13,7 +13,7 @@ main{
 }
 .button{
     width:80px;
-    color: blue;
+    color: rgb(7, 7, 79);
 }
 body{
     background-image: url("img/R.jpg");
